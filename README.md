@@ -2,9 +2,10 @@
 
 Agregar información de ***geom_line()***.
 
-<br/ >
-<br/ >
-<br/ >
+<br/>
+<br/>
+<br/>
+<br/>
 
 ## Gráfico de lines
 
