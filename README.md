@@ -17,6 +17,7 @@ DatIris11 <- iris %>%
   ungroup()
 ```
 
+<br/>
 
 - Gráfico
 
