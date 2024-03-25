@@ -7,7 +7,7 @@ Agregar información de ***geom_line()***.
 
 ## Gráfico de lines
 
-- Data en general
+- Data
 
 ``` 
 DatIris11 <- iris %>%
